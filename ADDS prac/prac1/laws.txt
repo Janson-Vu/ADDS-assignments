@@ -1,0 +1,3 @@
+rock beats scissors (R<S)
+scissors beat paper (S<P)
+paper beats rock    (P<R)
